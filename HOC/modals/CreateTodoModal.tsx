@@ -1,4 +1,4 @@
-import React, { FC } from 'react'
+import  { FC } from 'react'
 import styles from '../../styles/Modal.module.scss'
 import { useEffect, useState } from 'react'
 import { createPortal } from 'react-dom'
